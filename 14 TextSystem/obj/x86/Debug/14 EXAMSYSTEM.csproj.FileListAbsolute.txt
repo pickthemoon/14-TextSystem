@@ -1,0 +1,21 @@
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\bin\Debug\14_EXAMSYSTEM.exe
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\bin\Debug\14_EXAMSYSTEM.pdb
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.chaxunchachengji.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.lianximoshi.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.shitiguanli.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_EXAMSYSTEM.Properties.Resources.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.student.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.sxiugaimima.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.teacher.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.xueshengguanli.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.txiugaimima.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhengshikaoshi.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhishidianguanli.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14 EXAMSYSTEM.csproj.GenerateResource.Cache
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14_EXAMSYSTEM.exe
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14_EXAMSYSTEM.pdb
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14 EXAMSYSTEM.csprojResolveAssemblyReference.cache
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.denglu.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_EXAMSYSTEM.quanzhong.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_EXAMSYSTEM.kaoshixuanze.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_EXAMSYSTEM.genggaitishu.resources

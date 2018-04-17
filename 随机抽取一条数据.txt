@@ -1,0 +1,19 @@
+--1
+select *
+  from (select EMP.*, row_number() over(order by dbms_random.value) rn
+          from EMP) EMP
+ where EMP.rn = 1;
+
+--2
+SELECT * FROM (SELECT * FROM emp order by dbms_random.value) WHERE rownum =1;
+
+
+"SELECT TOP 1 QDetail, QOptionA, QOptionB, QOptionC, QOptionD, QAnswer, QKnowledgePoint FROM Question ORDER BY NewID()"
+
+
+
+题库中总题数 suma
+作为考题的题数 sumb
+
+int i
+for (i = 0, i < sumb, i++)

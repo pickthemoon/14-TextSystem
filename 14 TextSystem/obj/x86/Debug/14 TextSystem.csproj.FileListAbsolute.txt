@@ -1,0 +1,38 @@
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.登录窗口.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.Properties.Resources.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.csproj.GenerateResource.Cache
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\bin\Debug\14 TextSystem.exe
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\bin\Debug\14 TextSystem.pdb
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.exe
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.pdb
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.teacher2.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.student.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.csprojResolveAssemblyReference.cache
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.shititianjia.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhishidian.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.tianjiaxuesheng.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.lianxi.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.tijiao.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.tmima.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhengshikaoshi.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.chachengji.resources
+D:\Example\Ctest-1\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.sxiugaimima.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.exe
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.pdb
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\bin\Debug\14 TextSystem.exe
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\bin\Debug\14 TextSystem.pdb
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.csprojResolveAssemblyReference.cache
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.chaxunchachengji.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.登录窗口.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.lianximoshi.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.shitiguanli.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.Properties.Resources.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.student.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.sxiugaimima.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.xueshengtianjia.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhuyi.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.txiugaimima.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhengshikaoshi.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.zhishidianguanli.resources
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\14 TextSystem.csproj.GenerateResource.Cache
+D:\工作\2017下\高级程序设计\考试管理系统\14 TextSystem\14 TextSystem\obj\x86\Debug\_14_TextSystem.teacher.resources

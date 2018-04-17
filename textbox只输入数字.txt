@@ -1,0 +1,47 @@
+//判断按键是不是要输入的类型。
+
+            if (((int)e.KeyChar < 48 || (int)e.KeyChar > 57) && (int)e.KeyChar != 8 && (int)e.KeyChar != 46)
+
+                e.Handled = true;
+
+            //小数点的处理。
+
+            if ((int)e.KeyChar == 46)                           //小数点
+
+            {
+
+                if (textBox1.Text.Length <= 0)
+
+                    e.Handled = true;   //小数点不能在第一位
+
+                else
+
+                {
+
+                    float f;
+
+                    float oldf;
+
+                    bool b1 = false, b2 = false;
+
+                    b1 = float.TryParse(textBox1.Text, out oldf);
+
+                    b2 = float.TryParse(textBox1.Text + e.KeyChar.ToString(), out f);
+
+                    if (b2 == false)
+
+                    {
+
+                        if (b1 == true)
+
+                            e.Handled = true;
+
+                        else
+
+                            e.Handled = false;
+
+                    }
+
+                }
+
+            }
